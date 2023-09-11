@@ -1,0 +1,46 @@
+ul{
+    list-style-type: none;
+}
+p{
+    font-weight: bold;
+}
+div{
+    display: inline-block;
+}
+.div2{
+    margin-left: 90px;
+}
+
+.li1{
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+
+.li1>li{
+    background-color: skyblue;
+    height: 30px;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.li2{
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+
+.li2>li{
+    border: 1px solid white;
+    background-color: lightgray;
+    display: inline-block;
+    padding: 10px;
+    font-weight: bold;
+    color: blue;
+}
+
+.li1 a:hover {
+    background-color: orange;
+}
+.li2 a:hover {
+    background-color: gray;
+}

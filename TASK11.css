@@ -1,0 +1,42 @@
+.box{
+    text-align: center;
+    padding: 16px;
+
+}
+.image{
+    margin-left: 460px;
+}
+.login {
+    display: block;
+    width: 50%;
+    margin-left: 305px;
+    background-color: rgb(68, 162, 68);
+    height: 49px;
+    /* increase the size of text written in the button */
+    font-size: 25px;
+    font-display: bolder;
+    font-style: normal;
+    /* change color to white */
+    color: white;
+}
+.psw{
+    margin-left: 90%;
+}
+input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.cancelbtn{
+    display: block;
+    width: 5%;
+    height: 3%;
+    background-color: rgb(68, 162, 68);
+    font-display: bolder;
+    font-style: normal;
+    color: white;
+}
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(213, 213, 43);
+}
+ul{
+    display: inline;
+    list-style-type: none;    
+    text-decoration: none;
+    border-collapse: collapse;
+    color: black;
+    
+}
+li{
+    background-color: white;
+    padding: 10px 0;
+    padding-left: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+    border-right: 10px solid black;
+    width: 100px;
+}
+h1{
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+    color: gray;
+}
+
+.div2{
+    position: absolute;
+    top: 30px;
+    left: 450px;
+    color: gray;
+
+}
+.div1{
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    background-color: rgb(213, 213, 43);
+
+}

@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(209, 119, 119);
+}
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 500px;
+  width: 500px;
+    margin-left: 30%;
+}
+label{
+    color: white;
+}
+
+td{
+    color: white;
+    padding: 10px;
+}
+.registartion-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 400px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: maroon;
+    padding: 20px;
+}
+
+.registartion-form .submit {
+    width: 100%;
+    padding: 8px 0;
+    font-size: 20px;
+    color: rgb(44, 44, 44);
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+  
